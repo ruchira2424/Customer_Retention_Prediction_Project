@@ -37,5 +37,5 @@ Churn prediction helps businesses identify customers likely to leave and take pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/customer-churn-prediction.git
+   git clone https://github.com/<ruchira2424>/customer-churn-prediction.git
    cd customer-churn-prediction
